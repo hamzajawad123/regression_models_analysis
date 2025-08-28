@@ -81,8 +81,7 @@ The project followed a **structured data science workflow**:
 ---
 
 ## Deliverables  
-- [Final Project Notebook](./final_project.ipynb)  
-- [Extracted Notebook (Text Version)](./final_project_extracted.txt)  
+- [Notebook](./notebooks/fina_project.ipynb)  
 - Visualizations included in the notebook:  
   - Scatter plots of features vs. target  
   - Feature importance bar charts  

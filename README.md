@@ -51,10 +51,6 @@ The following datasets were used:
 - [Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 - [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
 
-> Note: Paths in the notebook reference local files (e.g., `F:/DATA_SCIENCE_THEORY/`). Ensure dataset files are placed correctly before running the code.  
-
----
-
 ## Process  
 The project followed a **structured data science workflow**:  
 

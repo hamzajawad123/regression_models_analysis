@@ -46,10 +46,11 @@ Each task involves **data cleaning, visualization, modeling, and evaluation** to
 ---
 
 ## Datasets  
-The following datasets were used:  
-- [Boston Housing Dataset](https://www.kaggle.com/datasets/altavish/boston-housing-dataset)  
-- [Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
-- [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
+The following datasets were used (stored in the `datasets/` folder of this repository):  
+
+- **Boston Housing Dataset** → `datasets/BostonHousing.csv`  
+- **Customer Churn Dataset** → `datasets/Telco-Customer-Churn.csv`  
+- **Pima Indians Diabetes Dataset** → `datasets/diabetes.csv`  
 
 ## Process  
 The project followed a **structured data science workflow**:  

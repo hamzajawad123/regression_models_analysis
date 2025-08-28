@@ -1,7 +1,8 @@
-# Python Final Project  
+# Regression Models Analysis  
 
 ## Overview  
-This project is part of my **Final Python Assignment**, demonstrating the application of data science and machine learning techniques to solve real-world problems.  
+This project demonstrates the application of **data science and machine learning techniques** using Python to solve real-world predictive problems.  
+It focuses on regression-based approaches (Linear & Logistic Regression) applied to multiple datasets, showcasing skills in **data preprocessing, exploratory analysis, model building, evaluation, and interpretation of insights**.  
 
 The project covers **three major predictive tasks**:  
 1. **Predicting House Prices** using Multiple Linear Regression  

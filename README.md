@@ -81,31 +81,11 @@ The project followed a **structured data science workflow**:
 ---
 
 ## Deliverables  
-- [Notebook](.notebook/final_project.ipynb)
+- **Notebook** → `notebooks/final_project.ipynb`  
 - Visualizations included in the notebook:  
   - Scatter plots of features vs. target  
   - Feature importance bar charts  
-  - Churn probability histograms  
-
----
-
-## Sample Visualizations  
-
-**Visualization 1: House Prices Feature Importance**  
-A bar chart showing which features most strongly affect house prices.  
-![House Price Importance](./visuals/house_price_feature_importance.png)  
-
----
-
-**Visualization 2: Churn Probability Distribution**  
-Histogram displaying predicted churn probabilities for customers.  
-![Churn Probability Distribution](./visuals/churn_probability_distribution.png)  
-
----
-
-**Visualization 3: Diabetes Feature Importance**  
-Horizontal bar chart of coefficients from the logistic regression model.  
-![Diabetes Feature Importance](./visuals/diabetes_feature_importance.png)  
+  - Churn probability histograms   
 
 ---
 
